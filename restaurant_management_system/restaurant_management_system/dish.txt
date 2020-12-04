@@ -1,0 +1,10 @@
+pizza 4
+hamburger 4
+coffee 6
+rat 1
+juice 1
+shit 1000
+rice 1
+stack 4
+bread 2
+chicken 7
